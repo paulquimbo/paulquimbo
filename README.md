@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 ## 🙋‍♂️ About Me
-- I am an AHI Health student specializing in data management.
+- I am an Applied Health Informatics student specializing in data management.
 - Currently learning Python to enhance my skills in healthcare informatics and data analysis.
 - I work as a Nurse Informatics professional in a long-term veterans home, where I teach and manage the Electronic Medical Records (EMR) system.
 - Passionate about leveraging technology to improve patient care and healthcare workflows.
